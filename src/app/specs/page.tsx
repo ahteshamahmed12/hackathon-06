@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 export default function specs(){
     return(
         <div className=" bg-blue-200 w-full h-fit ">
